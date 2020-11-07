@@ -25,12 +25,4 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denurathnayaka&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=denurathnayaka&show_icons=true&theme=radical" />
-
-
-</details>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denurathnayaka&show_icons=true&theme=tokyonight)
