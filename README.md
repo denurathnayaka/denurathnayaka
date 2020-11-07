@@ -1,4 +1,4 @@
-Hi, I'm Denuwanthi Rathnayaka 👋
+### Hi there, I'm Denuwanthi Rathnayaka 👋
 
 Undergraduate of B.Sc.(hons) Computing and Information Systems in Department of Computing and Information Systems, Faculty of Applied Sciences, Sabaragamuwa University of Sri Lanaka. 
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ I like to watch films at my leasure time...
 
 
-### Languages and Tools
+### Languages and Tools:
 <img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="codeSTACKr | html" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
